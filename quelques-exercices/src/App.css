@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.hangman {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+}
